@@ -3,13 +3,6 @@ comics_download
 
 Downloads multiple comics from xkcd.com
 
-Installation
-------------
-
-To install with pip, run:
-
-    pip install comicsdownload
-
 Quickstart Guide
 ----------------
 
